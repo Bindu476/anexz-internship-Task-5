@@ -1,0 +1,1 @@
+Task 5: load the titanic dataset and filter passenger who are adults and paid a fare greater than 30.create new freatures like family size and fare per person,then use group by to analyze average fare and survival rate based on passenger class and gender
